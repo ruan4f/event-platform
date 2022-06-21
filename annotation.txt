@@ -1,0 +1,5 @@
+yarn add tailwindcss postcss autoprefixer -D
+
+https://rseat.in/lab-graphcms
+
+IgniteLab02_RuanF
