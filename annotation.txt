@@ -1,8 +1,12 @@
-yarn add tailwindcss postcss autoprefixer -D
-
 https://rseat.in/lab-graphcms
 
 IgniteLab02_RuanF
 
-
 https://api-sa-east-1.graphcms.com/v2/cl4oqakiq0o7k01xn3e6rgl3w/master
+
+yarn add tailwindcss postcss autoprefixer -D
+yarn add @graphql-codegen/typescript @graphql-codegen/typescript-operations @graphql-codegen/typescript-react-apollo -D
+yarn add graphql
+yarn add @graphql-codegen/cli
+
+#GraphQL Codegen
